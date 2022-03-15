@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include "main.h"
 /**
  * printer - function name
  * Description: prints _putchar when called
