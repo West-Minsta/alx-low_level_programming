@@ -1,10 +1,11 @@
 #include"main.h"
 /**
- * _isslow - function name
+ * _islower - function name
  * Description: prints "action" when called
  * Return: 0
+ * @c : character to check the case
  */
 int _islower(int c)
 {
-    return (c >= 97 && c <= 122);
+return (c >= 97 && c <= 122);
 }
